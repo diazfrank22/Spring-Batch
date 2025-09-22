@@ -1,0 +1,7 @@
+spring:
+  batch:
+    job:
+      enabled: false
+app:
+  output:
+    dir: ${java.io.tmpdir}

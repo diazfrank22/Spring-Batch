@@ -1,0 +1,3 @@
+proveedor,factura,importe,divisa,fecha_de_vencimiento,iban
+PROV001,FACT001,100.00,EUR,2023-03-15,valor1
+PROV003,FACT003,300.00,EUR,2023-03-15,valor3
